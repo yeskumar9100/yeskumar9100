@@ -1,79 +1,96 @@
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0000&height=130&section=header&text=YESKUMAR&fontSize=48&fontColor=ef4444&fontAlign=18&fontAlignY=52&desc=SOFTWARE%20DEV%20%C2%B7%20AI%20BUILDER%20%C2%B7%20HYDERABAD&descAlign=18&descAlignY=78&descSize=14&descColor=666666" width="100%"/>
-
-<br/>
-
-<!-- TYPING SVG — demolab is the most stable host -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1200&color=EF4444&center=true&vCenter=true&width=600&lines=SDE+Intern+%40+Bluestock+Fintech+%F0%9F%92%BC;Hackathon+Team+Leader+%F0%9F%8F%86;Built+RequireAI+%E2%80%94+Live+AI+Platform+%F0%9F%9A%80;Full-Stack+%7C+AI+%7C+ML+Builder+%E2%9A%A1;Open+to+Opportunities+%E2%9C%A8" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:1ABC9C&height=200&section=header&text=Hey%2C%20I'm%20Yes%20Kumar%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=16" />
+
+<a href="https://www.linkedin.com/in/yes-kumar-a335312a2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yeskumar10507@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/yeskumar9100">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://requireai.vercel.app">
+  <img src="https://img.shields.io/badge/RequireAI-Live-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=CSE+Student+%40+MREC+%7C+2023-2027;Full-Stack+Dev+%7C+AI+%2F+ML+Builder;Hackathon+Team+Leader+%F0%9F%9A%80;SDE+Intern+%40+Bluestock+Fintech;Building+cool+stuff+with+AI+%E2%9A%A1)
+
+</div>
 
 ---
 
-<!-- ABOUT — terminal YAML style -->
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="5" bgcolor="#ef4444"></td>
-<td width="16"></td>
-<td>
+## 🚀 About Me
 
-### `$ whoami`
-
-```yaml
-name       : Yes Kumar
-location   : Hyderabad, India 🇮🇳
-internship : SDE Intern @ Bluestock Fintech
-role       : Full-Stack Dev | AI/ML Builder | Hackathon Leader
-status     : Open to opportunities ●
+```python
+yes_kumar = {
+    "🎓 education":  "B.Tech CSE @ Malla Reddy Engineering College (2023–2027)",
+    "💼 experience": "SDE Intern @ Bluestock Fintech",
+    "🏆 hackathons": ["NYXORA MREM 2K26 → RequireAI", "Agentic AI Video Call Onboarding"],
+    "🔭 currently":  "Building AI-powered full-stack products",
+    "🌱 learning":   "Advanced ML, System Design, LLM APIs",
+    "⚡ fun fact":   "I turn academic assignments into real deployed apps 🚀",
+}
 ```
 
-</td>
-</tr>
-</table>
-
-<br/>
-
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Featured Projects
 
 <div align="center">
 
-| | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 🤖 | **RequireAI** | AI-powered BRD generation · 9-phase multi-agent pipeline | React · Gemini 2.0 · Supabase · FastAPI | [![Live](https://img.shields.io/badge/LIVE-ef4444?style=flat-square&logo=vercel&logoColor=white)](https://requireai.vercel.app) |
-| 📹 | **Agentic AI Onboarding** | Video call onboarding · 5-stage AI pipeline | WebRTC · Gemini 2.0 · React 18 · FastAPI | [![WIP](https://img.shields.io/badge/IN_DEV-333?style=flat-square&logo=github&logoColor=white)](https://github.com/yeskumar9100) |
-| 📈 | **ML Financial Analysis** | ML-driven financial insights with MySQL | Python · scikit-learn · MySQL · Flask | [![Repo](https://img.shields.io/badge/REPO-333?style=flat-square&logo=github&logoColor=white)](https://github.com/yeskumar9100/Machine-Learning-Financial-Analysis-Project) |
-| 🔬 | **Iron & Silica Prediction** | XGBoost + Lasso on real mining dataset | Python · XGBoost · Pandas · Matplotlib | [![Repo](https://img.shields.io/badge/REPO-333?style=flat-square&logo=github&logoColor=white)](https://github.com/yeskumar9100/PREDICTING-IRON-AND-SILICA-CONCENTRATES-WITH-DATA-DRIVEN-MACHINE-LEARNING-) |
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🤖 **RequireAI** | AI-powered BRD generation platform with 9-phase multi-agent pipeline | React · Gemini 2.0 · Supabase · FastAPI | [requireai.vercel.app](https://requireai.vercel.app) |
+| 📹 **Agentic AI Onboarding** | Video call based onboarding with multi-agent AI pipeline | WebRTC · Gemini 2.0 · React 18 · FastAPI | 🚧 In Dev |
+| 📈 **ML Financial Analysis** | Automates financial data collection with ML-driven insights | Python · MySQL · scikit-learn | [Repo](https://github.com/yeskumar9100/Machine-Learning-Financial-Analysis-Project) |
+| 🔬 **Iron & Silica Prediction** | XGBoost + Lasso ML model on mining data | Python · XGBoost · Pandas | [Repo](https://github.com/yeskumar9100/PREDICTING-IRON-AND-SILICA-CONCENTRATES-WITH-DATA-DRIVEN-MACHINE-LEARNING-) |
 
 </div>
-
-<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<!-- skillicons.dev — renders as clean icon grid, very visual -->
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,tensorflow,pytorch&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,firebase,aws&theme=dark" /><br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Also using:**
-![Gemini](https://img.shields.io/badge/Gemini_2.0-0d0d0d?style=for-the-badge&logo=google&logoColor=ef4444)
-![Claude](https://img.shields.io/badge/Claude_AI-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=ef4444)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=ef4444)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ef4444)
-![WebRTC](https://img.shields.io/badge/WebRTC-0d0d0d?style=for-the-badge&logo=webrtc&logoColor=ef4444)
+**Frontend**
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<br/>
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Database & Cloud**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+**ML / Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -81,21 +98,24 @@ status     : Open to opportunities ●
 
 <div align="center">
 
-<!-- github-readme-stats by anuraghazra — most reliable, self-hosted widely -->
-<img src="https://github-readme-stats.vercel.app/api?username=yeskumar9100&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=ffffff&icon_color=ef4444&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeskumar9100&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=ffffff&layout=compact&count_private=true&langs_count=8" height="165"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=yeskumar9100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeskumar9100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="165"/>
 
 <br/>
 
-<!-- streak stats — demolab is the MOST reliable streak host -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=yeskumar9100&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=yeskumar9100&theme=dark&hide_border=true&background=0d0d0d&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=ffffff&dates=666666&stroke=1a1a1a" width="55%"/>
-</div>
 
-<br/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=yeskumar9100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
 
 ---
 
@@ -103,57 +123,18 @@ status     : Open to opportunities ●
 
 <div align="center">
 
-<!-- activity graph — most maintained fork -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeskumar9100&bg_color=0d0d0d&color=ef4444&line=ef4444&point=ffffff&area=true&area_color=3d0000&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Yes%20Kumar" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeskumar9100&theme=tokyo-night&hide_border=true)
 
 </div>
-
-<br/>
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
 
-<!-- github-profile-trophy — very stable, widely used -->
-<img src="https://github-profile-trophy.vercel.app/?username=yeskumar9100&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+**Thanks for visiting! Drop a ⭐ on something if you find it useful.**
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=yeskumar9100&icon=6&color=6)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,100:6C3483&height=100&section=footer" />
 
 </div>
-
-<br/>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ef4444)](https://www.linkedin.com/in/yes-kumar-a335312a2/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:yeskumar10507@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ef4444)](https://github.com/yeskumar9100)
-[![RequireAI](https://img.shields.io/badge/RequireAI_🚀-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ef4444)](https://requireai.vercel.app)
-
-<br/>
-
-<!-- komarev — most reliable visitor counter, no setup needed -->
-![Profile Views](https://komarev.com/ghpvc/?username=yeskumar9100&color=ef4444&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
----
-
-<!-- MINIMAL RULE FOOTER -->
-<div align="center">
-
-```
-──────────────────────────────────────────────────────────
-  ★  THANKS FOR VISITING  ·  yeskumar9100  ·  2027  ★
-──────────────────────────────────────────────────────────
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0d0d0d&height=6&section=footer" width="100%"/>
