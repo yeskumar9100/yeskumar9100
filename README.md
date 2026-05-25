@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0000&height=130&section=header&text=YES.KUMAR_&fontSize=48&fontColor=ef4444&fontAlign=18&fontAlignY=52&desc=SOFTWARE%20DEV%20%C2%B7%20AI%20BUILDER%20%C2%B7%20HYDERABAD&descAlign=18&descAlignY=78&descSize=14&descColor=666666" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0000&height=130&section=header&text=YES KUMAR &fontSize=48&fontColor=ef4444&fontAlign=18&fontAlignY=52&desc=SOFTWARE%20DEV%20%C2%B7%20AI%20BUILDER%20%C2%B7%20HYDERABAD&descAlign=18&descAlignY=78&descSize=14&descColor=666666" width="100%"/>
 
 <br/>
 
