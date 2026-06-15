@@ -47,7 +47,7 @@ role:
    - ML Builder
 
 education:
-   - B.Tech CSE @ MREC (2023 - 2027)
+   - B.Tech CSE @ MREM (2023 - 2027)
 
 experience:
    - SDE Intern @ Bluestock Fintech
